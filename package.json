@@ -3,7 +3,7 @@
   "description": "normalizes graphql responses using the client schema (json file)",
   "repository": "https://github.com/drivetribe/normalizr-graphql",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "scripts": {
     "update-schema": "babel-node test/scripts/updateSchema",
