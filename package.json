@@ -1,7 +1,7 @@
 {
-  "name": "normalizr-graphql",
+  "name": "@drivetribe/normalizr-graphql",
   "description": "normalizes graphql responses using the client schema (json file)",
-  "repository": "http://github.com/eyston/normalizr-graphql",
+  "repository": "https://github.com/drivetribe/normalizr-graphql",
   "license": "MIT",
   "version": "0.1.0",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   "dependencies": {
     "graphql": "0.4.14",
     "immutable": "3.7.5",
-    "normalizr": "../../git/normalizr"
+    "normalizr": "^3.2.0"
   },
   "devDependencies": {
     "babel": "6.3.13",
